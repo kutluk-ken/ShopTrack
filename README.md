@@ -1,6 +1,6 @@
 # ShopTrack
 
-Prototype E-Commerce App.
+Prototype E-Commerce App
 
 </br>
 
