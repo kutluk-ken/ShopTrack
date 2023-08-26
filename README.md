@@ -62,7 +62,8 @@ Recognizing the significance of online presence for malls, we dived into creatin
 </br>
 
 ## Screenshots
-
+![Screenshot of Welcome Page](Image/WelcomePage.png) ![Screenshot of Login](Image/Login.png) ![Screenshot of Register](Image/SignUp.png) ![Screenshot of Store](Image/Store.png) 
+  
 
 
 ## Future Enhancements
