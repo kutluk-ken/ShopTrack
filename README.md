@@ -89,13 +89,7 @@ Initially, Figma was used to design the UI of the app for the Login/SignUp, Home
 Below is an example of creating a new store as a vendor, ordering from that store as a user and fulfilling the order from the vendor side. Users are able to order from multiple stores without placing order tracking functionality at risk. <br>
 <br>
 
-![IMG_6094](https://github.com/kutluk-ken/ShopTrack/assets/56012015/ca2c3f4c-9454-4bfd-88d9-4350fdea223c)
-![IMG_6095](https://github.com/kutluk-ken/ShopTrack/assets/56012015/f6267b6f-1b62-4ccf-8ac5-89ed390b4b32)
-
-
-https://github.com/kutluk-ken/ShopTrack/assets/56012015/cfef4d5d-2b6f-4fdc-ac7e-223e2b1ba0b0
-
-
+https://github.com/kutluk-ken/ShopTrack/assets/56012015/b4a2a66e-5650-4940-b3ff-b94b99e55667
 
 
 </br>
