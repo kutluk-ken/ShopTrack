@@ -61,8 +61,11 @@ Recognizing the significance of online presence for malls, we dived into creatin
 
 </br>
 
-## Screenshots
-![Screenshot of Welcome Page](Image/WelcomePage.png) ![Screenshot of Login](Image/Login.png) ![Screenshot of Register](Image/SignUp.png) ![Screenshot of Store](Image/Store.png) 
+## Design
+Initially, Figma was used to design the UI of the app for the Login/SignUp, Home, Cart, Orders, Store, and Settings pages.
+
+### Welcome
+
   
 
 
