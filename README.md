@@ -85,6 +85,30 @@ Initially, Figma was used to design the UI of the app for the Login/SignUp, Home
 <img src="images/ProductManagement.png" align="right" height=40% width=20% alt="Product Management">
 </p>
 
+
+## Testing
+In the ShopTrack project, a comprehensive testing approach was adopted to ensure the reliability, security, and optimal performance of the application. Below is an overview of the testing methodologies and practices implemented in this project.
+
+### Model-View-Presenter (MVP) Refactoring
+The login module of the application underwent a significant refactoring process to adhere to the Model-View-Presenter (MVP) architectural pattern. This approach enhanced the separation of concerns, making the codebase more modular, maintainable, and testable.
+
+Presenter Testing
+Unit Testing with JUnit
+- Purpose: The primary goal of the unit tests written for the presenter was to validate its behavior in isolation, ensuring that the logic contained within the presenter functions correctly.
+- Practices:
+  - Behavior-Specific Tests: Each test method was crafted to validate a specific behavior of the presenter, adhering strictly to the guidelines that no irrelevant code should be present in the test methods.
+  - Mockito for Interaction Simulation: Mockito was extensively used to simulate interactions with the model and the view, ensuring that the presenter’s responses to various inputs and scenarios could be accurately assessed without dependency on the actual model and view implementations.
+  - Maximizing Line Coverage: A suite of tests was developed with the goal of achieving maximal line coverage for the presenter, ensuring that all possible branches and lines of code were executed and validated under test conditions.
+- Tools & Execution:
+  - Android Studio for Running Tests: The unit tests were executed and validated using Android Studio’s built-in testing capabilities.
+  - Coverage Information: Android Studio was also utilized to generate coverage information, providing insight into the effectiveness of the tests and highlighting any areas of the presenter that may have been missed.
+### Continuous Integration and Testing Practices
+
+In addition to unit testing, the ShopTrack project also employed various best practices to ensure continuous quality and performance.
+
+- Code Reviews: All code, including test code, was subject to peer reviews to ensure adherence to coding standards and to catch potential issues early in the development process.
+- Automated Builds and Tests: The project was configured to run automated builds and tests on each commit, ensuring immediate feedback on the impact of changes.
+
 ## Demo
 Below is an example of creating a new store as a vendor, ordering from that store as a user and fulfilling the order from the vendor side. Users are able to order from multiple stores without placing order tracking functionality at risk. <br>
 <br>
