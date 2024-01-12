@@ -47,7 +47,7 @@ Recognizing the significance of online presence for malls, we dived into creatin
 - Order Placement: Shoppers can create orders without visiting the mall physically.
 - Item Preview: Visual confirmation of items before placing them in the cart.
 - Order Tracking: Shoppers can review previous orders and check their status.
-- 
+  
 
 ## Development Process
 ### Scrum Process:
